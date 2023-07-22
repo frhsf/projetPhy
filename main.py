@@ -87,3 +87,4 @@ plt.show()
 
 
 data.close()
+print("Bonjour")
