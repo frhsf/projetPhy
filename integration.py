@@ -9,6 +9,8 @@ def fct_parcourir():#fonction pour obtenir le path du fichier de données
     root.mainloop()
     return fichier
 test branch
+test pull
+
 def minmax(x,y,z):#On cherche le min et le max de l'accélération sur les 3 axes pour les limites des axes 
     up=[]
     down=[]
